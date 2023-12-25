@@ -1,11 +1,12 @@
-### Hi there 👋
+
 
 <div align="center">
-  
+  ### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A3E2FF&title_bg=%2381B7F5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/daink)
-</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dainK&layout=compact)
+</div>
+
 
 <!--
 **dainK/dainK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
