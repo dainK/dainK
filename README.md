@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=slice)
 ![header](https://capsule-render.vercel.app/api?color=auto&type=cylinder)
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradienttext=Dahyoung world&fontSize=90)
 
