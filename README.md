@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=250&section=header&text=Dahyoung world&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradienttext=Dahyoung world&fontSize=90)
 <div align="center">
   <h1>hi</h1>
 
