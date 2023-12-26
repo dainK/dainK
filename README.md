@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&text=Dahyoung%World!&color=gradient)<br>
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=Dahyoung%World!&color=gradient&section=header)<br>
 
 <div align="center">
 
