@@ -1,7 +1,9 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&text=Dahyoung%World!&color=gradient&section=header)<br>
 
 <div align="center">
+
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=Dahyoung%World!&color=gradient&section=header)<br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaink&count_bg=%23B8CFFF&title_bg=%2381ADFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/daink)<br>
 <br>
