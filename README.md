@@ -61,7 +61,12 @@
 <br>
   
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dainK&layout=compact)<br>
+
+<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dainK&layout=compact)
+</div>
+
+<br>
 
 <!--
 **dainK/dainK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
