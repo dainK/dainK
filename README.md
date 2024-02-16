@@ -15,7 +15,7 @@
 <div align=left> 
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/c#-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=&logoColor=white">
 </div>
@@ -42,6 +42,21 @@
 <img src="https://img.shields.io/badge/chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
 </div>
 
+### Game Engine
+<div align=left> 
+<img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/cocos-55C2E1?style=for-the-badge&logo=cocos&logoColor=white">
+</div>
+
+### Dev Ops
+<div align=left> 
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/amazon_ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+<img src="https://img.shields.io/badge/amazon_s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/amazon_route53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white">
+<img src="https://img.shields.io/badge/amazon_rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
+<img src="https://img.shields.io/badge/amazon_rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
+</div>
 
 <!--
 **dainK/dainK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
