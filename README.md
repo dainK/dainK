@@ -56,14 +56,13 @@
 <img src="https://img.shields.io/badge/amazon_rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
 </div>
 
-
-<div align="center">
+<br>
+<br>
+<br>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaink&count_bg=%23B8CFFF&title_bg=%2381ADFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/daink)<br>
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dainK&layout=compact)<br>
-
-</div>
 
 <!--
 **dainK/dainK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
