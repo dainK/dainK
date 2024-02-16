@@ -8,7 +8,7 @@
 </div>
 
 # 💬 Ask me about
-안녕하세요. 성장을 멈추지 않으려 늘 배우고 있는 개발자 입니다.
+안녕하세요. 성장을 멈추지 않으려 늘 배우는 중입니다.
 <div align="left">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaink&count_bg=%23B8CFFF&title_bg=%2381ADFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/daink)<br>
